@@ -28,9 +28,9 @@
 <p align="left">
 <a href="https://dev.to/aquilusnorman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="aquilusnorman" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aquilus norman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aquilus norman" height="30" width="40" /></a>
-<a href="https://fb.com/aquilus norman" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aquilus norman" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zweyan.naing.904/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="aquilus norman" height="30" width="40" /></a>
 <a href="https://medium.com/@zweyannaing101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zweyannaing101" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/tech zwe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tech zwe" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCU8FUioWr59FVjGvl0RdO8g?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="tech zwe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
